@@ -1,0 +1,23 @@
+{
+    "staff": [{
+            "id": 1,
+            "name": "Kalle Svensson",
+            "title": "Sekreterare",
+            "phone": "0712345678",
+            "email": ""
+        },
+        {
+            "id": 2,
+            "name": "Ali Abduzeedo",
+            "title": "",
+            "phone": "0712345678",
+            "email": ""
+        }, {
+            "id": 3,
+            "name": "Minette Smith",
+            "title": "Sekreterare",
+            "phone": "0712345678",
+            "email": ""
+        }
+    ]
+}
